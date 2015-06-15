@@ -1,5 +1,6 @@
 #arquivos
 #Alteração para postar no GITHUB
+#Alterei o arquivo pelo GitHub.
 
 import sys
 
