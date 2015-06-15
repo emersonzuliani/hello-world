@@ -1,8 +1,9 @@
 #arquivos
+#Alteração para postar no GITHUB
 
 import sys
 
-acao = input('Ação a fazer [1-escrever | 2-ler]')
+acao = input('Ação a fazer [1-Escrever | 2-Ler]')
 
 if (acao == '1'):
     temp = open('temp.txt','w')
@@ -16,6 +17,6 @@ elif (acao == '2'):
         sys.stdout.write(x);
     temp.close()
 else:
-    print('Escolha 1 ou 2')
+    print('Escolha a opção 1 ou 2!')
 
 
